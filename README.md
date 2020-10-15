@@ -8,9 +8,9 @@
 ## Table of contents
 * [About the project](#About-the-project)
 * [How to start](#how-to-start)
-  * [Prerequisitos](#prerequisites)
+  * [Prerequisites](#prerequisites)
   * [Installation](#installation)
-* [Uso](#uso)
+* [Use](#uso)
 
 
 
